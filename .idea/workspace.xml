@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="2739 구구단 반복문">
-      <change afterPath="$PROJECT_DIR$/반복문/10950.py" afterDir="false" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="8393 합 반복문">
+      <change afterPath="$PROJECT_DIR$/반복문/15552 빠른A+B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
       <recent name="C:\Users\USER\Desktop\알고리즘(개인)\algo_study\입출력과 사칙연산" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.8393 합">
+  <component name="RunManager" selected="Python.15552 빠른A+B">
     <configuration name="10950" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,6 +64,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="15552 빠른A+B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algo_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/반복문" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/반복문/15552 빠른A+B.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2480 주사위 세개" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,28 +100,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/조건문/2480 주사위 세개.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2525 오븐 시계" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algo_study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/조건문" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/조건문/2525 오븐 시계.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15552 빠른A+B" />
         <item itemvalue="Python.8393 합" />
         <item itemvalue="Python.10950" />
         <item itemvalue="Python.2739 구구단" />
         <item itemvalue="Python.2480 주사위 세개" />
-        <item itemvalue="Python.2525 오븐 시계" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649855088913</updated>
       <workItem from="1649855091604" duration="5674000" />
-      <workItem from="1649944335108" duration="316000" />
+      <workItem from="1649944335108" duration="930000" />
     </task>
     <task id="LOCAL-00001" summary="directory change">
       <created>1649855320635</created>
@@ -235,7 +236,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649944556633</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="10950 반복문">
+      <created>1649944711396</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1649944711396</updated>
+    </task>
+    <task id="LOCAL-00011" summary="8393 합 반복문">
+      <created>1649944861026</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1649944861026</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,7 +277,9 @@
     <MESSAGE value="2884 알람 시계 조건문" />
     <MESSAGE value="2525 오븐 시계 조건문" />
     <MESSAGE value="2739 구구단 반복문" />
-    <option name="LAST_COMMIT_MESSAGE" value="2739 구구단 반복문" />
+    <MESSAGE value="10950 반복문" />
+    <MESSAGE value="8393 합 반복문" />
+    <option name="LAST_COMMIT_MESSAGE" value="8393 합 반복문" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algo_study$2884__.coverage" NAME="2884 알람 시계 Coverage Results" MODIFIED="1649858342652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
@@ -275,8 +292,11 @@
     <SUITE FILE_PATH="coverage/algo_study$10430.coverage" NAME="10430 Coverage Results" MODIFIED="1649856064632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/입출력과 사칙연산" />
     <SUITE FILE_PATH="coverage/algo_study$14681_.coverage" NAME="14681 사분면구하기 Coverage Results" MODIFIED="1649857842353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
     <SUITE FILE_PATH="coverage/algo_study$2588.coverage" NAME="2588 Coverage Results" MODIFIED="1649856605530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/입출력과 사칙연산" />
+    <SUITE FILE_PATH="coverage/algo_study$15552_A_B.coverage" NAME="15552 빠른A+B Coverage Results" MODIFIED="1649945079773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/algo_study$.coverage" NAME="고양이 Coverage Results" MODIFIED="1649855149669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/입출력과 사칙연산" />
+    <SUITE FILE_PATH="coverage/algo_study$10950.coverage" NAME="10950 Coverage Results" MODIFIED="1649944672923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/algo_study$2753_.coverage" NAME="2753 윤년 Coverage Results" MODIFIED="1649857478698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
+    <SUITE FILE_PATH="coverage/algo_study$8393_.coverage" NAME="8393 합 Coverage Results" MODIFIED="1649945038867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/algo_study$9498.coverage" NAME="9498 Coverage Results" MODIFIED="1649857110146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
   </component>
 </project>
