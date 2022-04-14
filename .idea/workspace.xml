@@ -40,7 +40,7 @@
       <recent name="C:\Users\USER\Desktop\알고리즘(개인)\algo_study\입출력과 사칙연산" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10950">
+  <component name="RunManager" selected="Python.8393 합">
     <configuration name="10950" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2884 알람 시계" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8393 합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,12 +137,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/조건문" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/반복문" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/조건문/2884 알람 시계.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/반복문/8393 합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8393 합" />
         <item itemvalue="Python.10950" />
         <item itemvalue="Python.2739 구구단" />
         <item itemvalue="Python.2480 주사위 세개" />
         <item itemvalue="Python.2525 오븐 시계" />
-        <item itemvalue="Python.2884 알람 시계" />
       </list>
     </recent_temporary>
   </component>
