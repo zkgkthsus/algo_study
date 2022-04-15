@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="2562 2577 10818">
-      <change afterPath="$PROJECT_DIR$/1차원 배열/1546 평균.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1차원 배열/3052 나머지.py" afterDir="false" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="1546 3052">
+      <change afterPath="$PROJECT_DIR$/1차원 배열/4344 평균은 넘겠지.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1차원 배열/8958 OX퀴즈.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,29 +42,7 @@
       <recent name="C:\Users\USER\Desktop\알고리즘(개인)\algo_study\입출력과 사칙연산" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1546 평균">
-    <configuration name="10818" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algo_study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1차원 배열" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1차원 배열/10818.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.4344 평균은 넘겠지">
     <configuration name="1546 평균" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,28 +57,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1차원 배열/1546 평균.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2562 최댓값" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algo_study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1차원 배열" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1차원 배열/2562 최댓값.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,13 +109,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="4344 평균은 넘겠지" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algo_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1차원 배열" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1차원 배열/4344 평균은 넘겠지.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8958 OX퀴즈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algo_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1차원 배열" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1차원 배열/8958 OX퀴즈.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4344 평균은 넘겠지" />
+        <item itemvalue="Python.8958 OX퀴즈" />
         <item itemvalue="Python.1546 평균" />
         <item itemvalue="Python.3052 나머지" />
         <item itemvalue="Python.2577 숫자의 개수" />
-        <item itemvalue="Python.2562 최댓값" />
-        <item itemvalue="Python.10818" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +173,7 @@
       <updated>1649855088913</updated>
       <workItem from="1649855091604" duration="5674000" />
       <workItem from="1649944335108" duration="3944000" />
-      <workItem from="1650035551346" duration="1999000" />
+      <workItem from="1650035551346" duration="3418000" />
     </task>
     <task id="LOCAL-00001" summary="directory change">
       <created>1649855320635</created>
@@ -301,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650036860404</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="1546 3052">
+      <created>1650037641675</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1650037641675</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +344,8 @@
     <MESSAGE value="10871 10952" />
     <MESSAGE value="1110 더하기 사이클" />
     <MESSAGE value="2562 2577 10818" />
-    <option name="LAST_COMMIT_MESSAGE" value="2562 2577 10818" />
+    <MESSAGE value="1546 3052" />
+    <option name="LAST_COMMIT_MESSAGE" value="1546 3052" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algo_study$10818.coverage" NAME="10818 Coverage Results" MODIFIED="1650035879614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1차원 배열" />
@@ -352,12 +360,14 @@
     <SUITE FILE_PATH="coverage/algo_study$15552_A_B.coverage" NAME="15552 빠른A+B Coverage Results" MODIFIED="1649945465917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/algo_study$.coverage" NAME="고양이 Coverage Results" MODIFIED="1649855149669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/입출력과 사칙연산" />
     <SUITE FILE_PATH="coverage/algo_study$10950.coverage" NAME="10950 Coverage Results" MODIFIED="1649944672923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
+    <SUITE FILE_PATH="coverage/algo_study$4344__.coverage" NAME="4344 평균은 넘겠지 Coverage Results" MODIFIED="1650038994018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1차원 배열" />
+    <SUITE FILE_PATH="coverage/algo_study$1546_.coverage" NAME="1546 평균 Coverage Results" MODIFIED="1650037599122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1차원 배열" />
     <SUITE FILE_PATH="coverage/algo_study$8393_.coverage" NAME="8393 합 Coverage Results" MODIFIED="1649945038867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/algo_study$10871_X__.coverage" NAME="10871 X보다 작은 수 Coverage Results" MODIFIED="1649946591822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/algo_study$11022.coverage" NAME="11022 Coverage Results" MODIFIED="1649945859525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/algo_study$10952.coverage" NAME="10952 Coverage Results" MODIFIED="1649947731706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/algo_study$2577__.coverage" NAME="2577 숫자의 개수 Coverage Results" MODIFIED="1650037208174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1차원 배열" />
-    <SUITE FILE_PATH="coverage/algo_study$3052_.coverage" NAME="3052 나머지 Coverage Results" MODIFIED="1650037232800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1차원 배열" />
+    <SUITE FILE_PATH="coverage/algo_study$3052_.coverage" NAME="3052 나머지 Coverage Results" MODIFIED="1650037569482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1차원 배열" />
     <SUITE FILE_PATH="coverage/algo_study$2439___2.coverage" NAME="2439 별찍기 -2 Coverage Results" MODIFIED="1649946368119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/algo_study$2438_.coverage" NAME="2438 별찍기 Coverage Results" MODIFIED="1649945991280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/algo_study$10926.coverage" NAME="10926 Coverage Results" MODIFIED="1649855368511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/입출력과 사칙연산" />
@@ -368,6 +378,7 @@
     <SUITE FILE_PATH="coverage/algo_study$2741_N.coverage" NAME="2741 N찍 Coverage Results" MODIFIED="1649945561837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/algo_study$2753_.coverage" NAME="2753 윤년 Coverage Results" MODIFIED="1649857478698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
     <SUITE FILE_PATH="coverage/algo_study$11021.coverage" NAME="11021 Coverage Results" MODIFIED="1649945780991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
+    <SUITE FILE_PATH="coverage/algo_study$8958_OX.coverage" NAME="8958 OX퀴즈 Coverage Results" MODIFIED="1650038135241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1차원 배열" />
     <SUITE FILE_PATH="coverage/algo_study$9498.coverage" NAME="9498 Coverage Results" MODIFIED="1649857110146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
   </component>
 </project>
