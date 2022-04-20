@@ -3,7 +3,6 @@ for j in range(2,33):
     for i in range(len(n_list)-1,-1,-1):
         if n_list[i] == 0:
             continue
-
         if n_list[i] % j == 0 and n_list[i] // j != 1:
             n_list[i] = 0
 n_list = sorted(list(set(n_list)))[2::]
