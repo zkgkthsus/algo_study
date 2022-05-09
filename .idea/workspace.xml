@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="2667 dfs성공 bfs 실패">
-      <change afterPath="$PROJECT_DIR$/DFS와 BFS/1012.py" afterDir="false" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="1012 유기농 배추">
+      <change afterPath="$PROJECT_DIR$/수학2/9020 골드바흐의 추측.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
       <recent name="C:\Users\USER\Desktop\알고리즘(개인)\algo_study\입출력과 사칙연산" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1012">
+  <component name="RunManager" selected="Python.9020 골드바흐의 추측">
     <configuration name="1012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4948 베르트랑 공준" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9020 골드바흐의 추측" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +143,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수학2/4948 베르트랑 공준.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수학2/9020 골드바흐의 추측.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.9020 골드바흐의 추측" />
         <item itemvalue="Python.1012" />
         <item itemvalue="Python.2667" />
         <item itemvalue="Python.2606" />
         <item itemvalue="Python.1260" />
-        <item itemvalue="Python.4948 베르트랑 공준" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +179,8 @@
       <workItem from="1651600162869" duration="3422000" />
       <workItem from="1651674197185" duration="3747000" />
       <workItem from="1651757821971" duration="4189000" />
-      <workItem from="1651851529621" duration="2257000" />
+      <workItem from="1651851529621" duration="2273000" />
+      <workItem from="1652099148190" duration="4159000" />
     </task>
     <task id="LOCAL-00001" summary="directory change">
       <created>1649855320635</created>
@@ -398,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651763116843</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="1012 유기농 배추">
+      <created>1651853818679</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1651853818680</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,7 +424,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2753 윤년 조건문" />
     <MESSAGE value="14681 4분면구하기 조건문" />
     <MESSAGE value="2884 알람 시계 조건문" />
     <MESSAGE value="2525 오븐 시계 조건문" />
@@ -441,7 +448,8 @@
     <MESSAGE value="1929 2581 4948 11653 다시 풀어봐야할 것들" />
     <MESSAGE value="1260 dfs bfs의 기초" />
     <MESSAGE value="2667 dfs성공 bfs 실패" />
-    <option name="LAST_COMMIT_MESSAGE" value="2667 dfs성공 bfs 실패" />
+    <MESSAGE value="1012 유기농 배추" />
+    <option name="LAST_COMMIT_MESSAGE" value="1012 유기농 배추" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -475,6 +483,7 @@
     <SUITE FILE_PATH="coverage/algo_study$2606.coverage" NAME="2606 Coverage Results" MODIFIED="1651677911670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS와 BFS" />
     <SUITE FILE_PATH="coverage/algo_study$2439___2.coverage" NAME="2439 별찍기 -2 Coverage Results" MODIFIED="1649946368119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/algo_study$2438_.coverage" NAME="2438 별찍기 Coverage Results" MODIFIED="1649945991280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
+    <SUITE FILE_PATH="coverage/algo_study$9020__.coverage" NAME="9020 골드바흐의 추측 Coverage Results" MODIFIED="1652103201223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학2" />
     <SUITE FILE_PATH="coverage/algo_study$1157_.coverage" NAME="1157 단어공부 Coverage Results" MODIFIED="1650047981496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문자열" />
     <SUITE FILE_PATH="coverage/algo_study$18108.coverage" NAME="18108 Coverage Results" MODIFIED="1649856062034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/입출력과 사칙연산" />
     <SUITE FILE_PATH="coverage/algo_study$2588.coverage" NAME="2588 Coverage Results" MODIFIED="1649856605530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/입출력과 사칙연산" />
@@ -509,7 +518,7 @@
     <SUITE FILE_PATH="coverage/algo_study$10926.coverage" NAME="10926 Coverage Results" MODIFIED="1649855368511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/입출력과 사칙연산" />
     <SUITE FILE_PATH="coverage/algo_study$10430.coverage" NAME="10430 Coverage Results" MODIFIED="1649856064632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/입출력과 사칙연산" />
     <SUITE FILE_PATH="coverage/algo_study$1260.coverage" NAME="1260 Coverage Results" MODIFIED="1651604583336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS와 BFS" />
-    <SUITE FILE_PATH="coverage/algo_study$1012.coverage" NAME="1012 Coverage Results" MODIFIED="1651853302722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS와 BFS" />
+    <SUITE FILE_PATH="coverage/algo_study$1012.coverage" NAME="1012 Coverage Results" MODIFIED="1652100815844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS와 BFS" />
     <SUITE FILE_PATH="coverage/algo_study$2741_N.coverage" NAME="2741 N찍 Coverage Results" MODIFIED="1649945561837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/algo_study$11021.coverage" NAME="11021 Coverage Results" MODIFIED="1649945780991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/algo_study$1193_.coverage" NAME="1193 분수찾기 Coverage Results" MODIFIED="1650301017690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학" />
