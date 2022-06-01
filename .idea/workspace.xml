@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="9020 골드바흐의 추측">
-      <change afterPath="$PROJECT_DIR$/수학2/1085 직사각형에서 탈춝.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/수학2/3009 네 번째 점.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/수학2/4153 직각삼각형.py" afterDir="false" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="1085 3009 4153">
+      <change afterPath="$PROJECT_DIR$/재귀/10872.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/입출력과 사칙연산" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/USER/Desktop/알고리즘(개인)/algo_study"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\Desktop\알고리즘(개인)\algo_study\입출력과 사칙연산" />
@@ -182,7 +181,8 @@
       <workItem from="1651674197185" duration="3747000" />
       <workItem from="1651757821971" duration="4189000" />
       <workItem from="1651851529621" duration="2273000" />
-      <workItem from="1652099148190" duration="6342000" />
+      <workItem from="1652099148190" duration="6365000" />
+      <workItem from="1654093737638" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="directory change">
       <created>1649855320635</created>
@@ -415,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652103359919</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="1085 3009 4153">
+      <created>1652105571374</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1652105571374</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,7 +440,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2884 알람 시계 조건문" />
     <MESSAGE value="2525 오븐 시계 조건문" />
     <MESSAGE value="2739 구구단 반복문" />
     <MESSAGE value="10950 반복문" />
@@ -458,7 +464,8 @@
     <MESSAGE value="2667 dfs성공 bfs 실패" />
     <MESSAGE value="1012 유기농 배추" />
     <MESSAGE value="9020 골드바흐의 추측" />
-    <option name="LAST_COMMIT_MESSAGE" value="9020 골드바흐의 추측" />
+    <MESSAGE value="1085 3009 4153" />
+    <option name="LAST_COMMIT_MESSAGE" value="1085 3009 4153" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -470,72 +477,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/algo_study$1152__.coverage" NAME="1152 단어의 개수 Coverage Results" MODIFIED="1650287836022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문자열" />
-    <SUITE FILE_PATH="coverage/algo_study$2562_.coverage" NAME="2562 최댓값 Coverage Results" MODIFIED="1650036161353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1차원 배열" />
-    <SUITE FILE_PATH="coverage/algo_study$11654_.coverage" NAME="11654 아스키코드 Coverage Results" MODIFIED="1650045515257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문자열" />
-    <SUITE FILE_PATH="coverage/algo_study$2581_.coverage" NAME="2581 소수 Coverage Results" MODIFIED="1650462551524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학2" />
-    <SUITE FILE_PATH="coverage/algo_study$2884__.coverage" NAME="2884 알람 시계 Coverage Results" MODIFIED="1649858342652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
-    <SUITE FILE_PATH="coverage/algo_study$1330.coverage" NAME="1330 Coverage Results" MODIFIED="1649857097954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
-    <SUITE FILE_PATH="coverage/algo_study$2525__.coverage" NAME="2525 오븐 시계 Coverage Results" MODIFIED="1649859281128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
-    <SUITE FILE_PATH="coverage/algo_study$2739_.coverage" NAME="2739 구구단 Coverage Results" MODIFIED="1649944472093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
-    <SUITE FILE_PATH="coverage/algo_study$2839_.coverage" NAME="2839 설탕배달 Coverage Results" MODIFIED="1650382854353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학" />
-    <SUITE FILE_PATH="coverage/algo_study$2667.coverage" NAME="2667 Coverage Results" MODIFIED="1651761371069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS와 BFS" />
-    <SUITE FILE_PATH="coverage/algo_study$1978_.coverage" NAME="1978 소수찾기 Coverage Results" MODIFIED="1650385135066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학2" />
-    <SUITE FILE_PATH="coverage/algo_study$11720_.coverage" NAME="11720 숫자의합 Coverage Results" MODIFIED="1650045969752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문자열" />
-    <SUITE FILE_PATH="coverage/algo_study$4344__.coverage" NAME="4344 평균은 넘겠지 Coverage Results" MODIFIED="1650039137217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1차원 배열" />
-    <SUITE FILE_PATH="coverage/algo_study$8393_.coverage" NAME="8393 합 Coverage Results" MODIFIED="1649945038867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
-    <SUITE FILE_PATH="coverage/algo_study$5622_.coverage" NAME="5622 다이얼 Coverage Results" MODIFIED="1650289962697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문자열" />
-    <SUITE FILE_PATH="coverage/algo_study$4673_.coverage" NAME="4673 셀프넘버 Coverage Results" MODIFIED="1650041323709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/함수" />
-    <SUITE FILE_PATH="coverage/algo_study$10757__a_b.coverage" NAME="10757 큰수 a+b Coverage Results" MODIFIED="1650382993688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학" />
-    <SUITE FILE_PATH="coverage/algo_study$2606.coverage" NAME="2606 Coverage Results" MODIFIED="1651677911670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS와 BFS" />
-    <SUITE FILE_PATH="coverage/algo_study$2439___2.coverage" NAME="2439 별찍기 -2 Coverage Results" MODIFIED="1649946368119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
-    <SUITE FILE_PATH="coverage/algo_study$2438_.coverage" NAME="2438 별찍기 Coverage Results" MODIFIED="1649945991280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
-    <SUITE FILE_PATH="coverage/algo_study$9020__.coverage" NAME="9020 골드바흐의 추측 Coverage Results" MODIFIED="1652103201223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학2" />
-    <SUITE FILE_PATH="coverage/algo_study$1157_.coverage" NAME="1157 단어공부 Coverage Results" MODIFIED="1650047981496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문자열" />
-    <SUITE FILE_PATH="coverage/algo_study$18108.coverage" NAME="18108 Coverage Results" MODIFIED="1649856062034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/입출력과 사칙연산" />
-    <SUITE FILE_PATH="coverage/algo_study$2588.coverage" NAME="2588 Coverage Results" MODIFIED="1649856605530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/입출력과 사칙연산" />
-    <SUITE FILE_PATH="coverage/algo_study$3009___.coverage" NAME="3009 네 번째 점 Coverage Results" MODIFIED="1652104747515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학2" />
-    <SUITE FILE_PATH="coverage/algo_study$11653_.coverage" NAME="11653 소인수분해 Coverage Results" MODIFIED="1650465932441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학2" />
-    <SUITE FILE_PATH="coverage/algo_study$2675__.coverage" NAME="2675 문자열 반복 Coverage Results" MODIFIED="1650046448947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문자열" />
-    <SUITE FILE_PATH="coverage/algo_study$10809__.coverage" NAME="10809 알파벳 찾기 Coverage Results" MODIFIED="1650046439428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문자열" />
-    <SUITE FILE_PATH="coverage/algo_study$2908_.coverage" NAME="2908 상수 Coverage Results" MODIFIED="1650288591218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문자열" />
-    <SUITE FILE_PATH="coverage/algo_study$1110__.coverage" NAME="1110 더하기 사이클 Coverage Results" MODIFIED="1649948242246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
-    <SUITE FILE_PATH="coverage/algo_study$2753_.coverage" NAME="2753 윤년 Coverage Results" MODIFIED="1649857478698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
-    <SUITE FILE_PATH="coverage/algo_study$8958_OX.coverage" NAME="8958 OX퀴즈 Coverage Results" MODIFIED="1650038135241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1차원 배열" />
-    <SUITE FILE_PATH="coverage/algo_study$2869_.coverage" NAME="2869 달팽이 Coverage Results" MODIFIED="1650376018929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학" />
-    <SUITE FILE_PATH="coverage/algo_study$1085__.coverage" NAME="1085 직사각형에서 탈춝 Coverage Results" MODIFIED="1652103861409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학2" />
-    <SUITE FILE_PATH="coverage/algo_study$10818.coverage" NAME="10818 Coverage Results" MODIFIED="1650035879614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1차원 배열" />
-    <SUITE FILE_PATH="coverage/algo_study$2775_.coverage" NAME="2775 부녀회장이 Coverage Results" MODIFIED="1650380586838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학" />
-    <SUITE FILE_PATH="coverage/algo_study$2922_.coverage" NAME="2922 벌집 Coverage Results" MODIFIED="1650298098987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학" />
-    <SUITE FILE_PATH="coverage/algo_study$1316___.coverage" NAME="1316 그룹 단어 체크 Coverage Results" MODIFIED="1650292752113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문자열" />
-    <SUITE FILE_PATH="coverage/algo_study$2480__.coverage" NAME="2480 주사위 세개 Coverage Results" MODIFIED="1649860813861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
-    <SUITE FILE_PATH="coverage/algo_study$4153_.coverage" NAME="4153 직각삼각형 Coverage Results" MODIFIED="1652104928451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학2" />
-    <SUITE FILE_PATH="coverage/algo_study$2742__N.coverage" NAME="2742 기찍 N Coverage Results" MODIFIED="1649945775033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
-    <SUITE FILE_PATH="coverage/algo_study$14681_.coverage" NAME="14681 사분면구하기 Coverage Results" MODIFIED="1649857842353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
-    <SUITE FILE_PATH="coverage/algo_study$15552_A_B.coverage" NAME="15552 빠른A+B Coverage Results" MODIFIED="1649945465917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
-    <SUITE FILE_PATH="coverage/algo_study$4948__.coverage" NAME="4948 베르트랑 공준 Coverage Results" MODIFIED="1650471832144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학2" />
-    <SUITE FILE_PATH="coverage/algo_study$.coverage" NAME="고양이 Coverage Results" MODIFIED="1649855149669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/입출력과 사칙연산" />
-    <SUITE FILE_PATH="coverage/algo_study$10950.coverage" NAME="10950 Coverage Results" MODIFIED="1649944672923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
-    <SUITE FILE_PATH="coverage/algo_study$1546_.coverage" NAME="1546 평균 Coverage Results" MODIFIED="1650037599122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1차원 배열" />
-    <SUITE FILE_PATH="coverage/algo_study$10871_X__.coverage" NAME="10871 X보다 작은 수 Coverage Results" MODIFIED="1649946591822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
-    <SUITE FILE_PATH="coverage/algo_study$1712_.coverage" NAME="1712 손익분기점 Coverage Results" MODIFIED="1650298094832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학" />
-    <SUITE FILE_PATH="coverage/algo_study$11022.coverage" NAME="11022 Coverage Results" MODIFIED="1649945859525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
-    <SUITE FILE_PATH="coverage/algo_study$2941__.coverage" NAME="2941 크로아티아 알파벳 Coverage Results" MODIFIED="1650292646990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문자열" />
-    <SUITE FILE_PATH="coverage/algo_study$10952.coverage" NAME="10952 Coverage Results" MODIFIED="1649947731706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
-    <SUITE FILE_PATH="coverage/algo_study$2577__.coverage" NAME="2577 숫자의 개수 Coverage Results" MODIFIED="1650037208174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1차원 배열" />
-    <SUITE FILE_PATH="coverage/algo_study$3052_.coverage" NAME="3052 나머지 Coverage Results" MODIFIED="1650037569482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1차원 배열" />
-    <SUITE FILE_PATH="coverage/algo_study$1065_.coverage" NAME="1065 한수 Coverage Results" MODIFIED="1650044732771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/함수" />
-    <SUITE FILE_PATH="coverage/algo_study$10926.coverage" NAME="10926 Coverage Results" MODIFIED="1649855368511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/입출력과 사칙연산" />
-    <SUITE FILE_PATH="coverage/algo_study$10430.coverage" NAME="10430 Coverage Results" MODIFIED="1649856064632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/입출력과 사칙연산" />
-    <SUITE FILE_PATH="coverage/algo_study$1260.coverage" NAME="1260 Coverage Results" MODIFIED="1651604583336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS와 BFS" />
-    <SUITE FILE_PATH="coverage/algo_study$1012.coverage" NAME="1012 Coverage Results" MODIFIED="1652100815844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS와 BFS" />
-    <SUITE FILE_PATH="coverage/algo_study$2741_N.coverage" NAME="2741 N찍 Coverage Results" MODIFIED="1649945561837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
-    <SUITE FILE_PATH="coverage/algo_study$11021.coverage" NAME="11021 Coverage Results" MODIFIED="1649945780991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
-    <SUITE FILE_PATH="coverage/algo_study$1193_.coverage" NAME="1193 분수찾기 Coverage Results" MODIFIED="1650301017690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학" />
-    <SUITE FILE_PATH="coverage/algo_study$10250_ACM_.coverage" NAME="10250 ACM 호텔 Coverage Results" MODIFIED="1650376528770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학" />
-    <SUITE FILE_PATH="coverage/algo_study$1929_.coverage" NAME="1929 소수구하기 Coverage Results" MODIFIED="1650468699083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수학2" />
-    <SUITE FILE_PATH="coverage/algo_study$9498.coverage" NAME="9498 Coverage Results" MODIFIED="1649857110146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
   </component>
 </project>
