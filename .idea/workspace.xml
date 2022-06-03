@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="10872">
-      <change afterPath="$PROJECT_DIR$/재귀/10870.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="10870" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,13 +27,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/USER/Desktop/알고리즘(개인)/algo_study/.idea"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop/알고리즘(개인)/algo_study/.idea&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\Desktop\알고리즘(개인)\algo_study\입출력과 사칙연산" />
@@ -133,7 +130,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10870" />
         <item itemvalue="Python.4153 직각삼각형" />
         <item itemvalue="Python.3009 네 번째 점" />
         <item itemvalue="Python.1085 직사각형에서 탈춝" />
@@ -407,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654094351212</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="10870">
+      <created>1654181636482</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1654181636482</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2739 구구단 반복문" />
     <MESSAGE value="10950 반복문" />
     <MESSAGE value="8393 합 반복문" />
     <MESSAGE value="15552 빠른A+B 반복문" />
@@ -450,7 +452,8 @@
     <MESSAGE value="9020 골드바흐의 추측" />
     <MESSAGE value="1085 3009 4153" />
     <MESSAGE value="10872" />
-    <option name="LAST_COMMIT_MESSAGE" value="10872" />
+    <MESSAGE value="10870" />
+    <option name="LAST_COMMIT_MESSAGE" value="10870" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
