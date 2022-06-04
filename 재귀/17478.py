@@ -8,7 +8,6 @@ g = "\"재귀함수는 자기 자신을 호출하는 함수라네\""
 h = "라고 답변하였지."
 i = "____"
 
-
 def recursion(cnt):
     print(i * cnt + c)
 
@@ -22,7 +21,6 @@ def recursion(cnt):
         print(i * cnt + f)
         recursion(cnt + 1)
         print(i * cnt + h)
-
 
 print(b)
 recursion(0)
