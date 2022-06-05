@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="17478" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="17478 수정" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -417,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654267541723</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="17478 수정">
+      <created>1654354101791</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1654354101791</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +442,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="8393 합 반복문" />
     <MESSAGE value="15552 빠른A+B 반복문" />
     <MESSAGE value="2741 2742" />
     <MESSAGE value="11021 11022" />
@@ -460,7 +466,8 @@
     <MESSAGE value="10872" />
     <MESSAGE value="10870" />
     <MESSAGE value="17478" />
-    <option name="LAST_COMMIT_MESSAGE" value="17478" />
+    <MESSAGE value="17478 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="17478 수정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
