@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="11729 여전히 헤깔림" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="2798 브루트포스 시작" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -452,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654616541077</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="2798 브루트포스 시작">
+      <created>1654724660627</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1654724660627</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,7 +477,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="10871 10952" />
     <MESSAGE value="1110 더하기 사이클" />
     <MESSAGE value="2562 2577 10818" />
     <MESSAGE value="1546 3052" />
@@ -495,7 +501,8 @@
     <MESSAGE value="2247 해결" />
     <MESSAGE value="11729 진행중" />
     <MESSAGE value="11729 여전히 헤깔림" />
-    <option name="LAST_COMMIT_MESSAGE" value="11729 여전히 헤깔림" />
+    <MESSAGE value="2798 브루트포스 시작" />
+    <option name="LAST_COMMIT_MESSAGE" value="2798 브루트포스 시작" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
