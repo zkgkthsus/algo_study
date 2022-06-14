@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="16198" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="16198 진행중">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/스터디/16197.py" beforeDir="false" afterPath="$PROJECT_DIR$/스터디/16197.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -500,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655048963647</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="16198 진행중">
+      <created>1655131943387</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1655131943387</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,7 +529,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="1065 4673 15596" />
     <MESSAGE value="10809 11654 11720" />
     <MESSAGE value="1152 1316 2908 2941 5622" />
     <MESSAGE value="1193 1712 2869 2922" />
@@ -544,7 +553,8 @@
     <MESSAGE value="1182" />
     <MESSAGE value="10815" />
     <MESSAGE value="16198" />
-    <option name="LAST_COMMIT_MESSAGE" value="16198" />
+    <MESSAGE value="16198 진행중" />
+    <option name="LAST_COMMIT_MESSAGE" value="16198 진행중" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
