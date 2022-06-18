@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="15992 재도전 필요" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="7568 시작" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,13 +163,6 @@
       <workItem from="1651851529621" duration="2273000" />
       <workItem from="1652099148190" duration="6365000" />
       <workItem from="1654093737638" duration="9000" />
-    </task>
-    <task id="LOCAL-00005" summary="2753 윤년 조건문">
-      <created>1649857578900</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1649857578900</updated>
     </task>
     <task id="LOCAL-00006" summary="14681 4분면구하기 조건문">
       <created>1649857884467</created>
@@ -507,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655389526805</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="7568 시작">
+      <created>1655477209713</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1655477209713</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +526,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="1978 소수찾기(에라토스테네스의 체)" />
     <MESSAGE value="1929 2581 4948 11653 다시 풀어봐야할 것들" />
     <MESSAGE value="1260 dfs bfs의 기초" />
     <MESSAGE value="2667 dfs성공 bfs 실패" />
@@ -551,7 +550,8 @@
     <MESSAGE value="2748 피보나치" />
     <MESSAGE value="11051 재도전 필요" />
     <MESSAGE value="15992 재도전 필요" />
-    <option name="LAST_COMMIT_MESSAGE" value="15992 재도전 필요" />
+    <MESSAGE value="7568 시작" />
+    <option name="LAST_COMMIT_MESSAGE" value="7568 시작" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
