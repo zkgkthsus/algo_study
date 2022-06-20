@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="1078 해석 첨부 재도전 필요" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="1018" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,13 +163,6 @@
       <workItem from="1651851529621" duration="2273000" />
       <workItem from="1652099148190" duration="6365000" />
       <workItem from="1654093737638" duration="9000" />
-    </task>
-    <task id="LOCAL-00009" summary="2739 구구단 반복문">
-      <created>1649944556633</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1649944556633</updated>
     </task>
     <task id="LOCAL-00010" summary="10950 반복문">
       <created>1649944711396</created>
@@ -507,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655707941588</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="1018">
+      <created>1655713570463</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1655713570463</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +526,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="1012 유기농 배추" />
     <MESSAGE value="9020 골드바흐의 추측" />
     <MESSAGE value="1085 3009 4153" />
     <MESSAGE value="10872" />
@@ -551,7 +550,8 @@
     <MESSAGE value="7568" />
     <MESSAGE value="1078 재도전 필요" />
     <MESSAGE value="1078 해석 첨부 재도전 필요" />
-    <option name="LAST_COMMIT_MESSAGE" value="1078 해석 첨부 재도전 필요" />
+    <MESSAGE value="1018" />
+    <option name="LAST_COMMIT_MESSAGE" value="1018" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
