@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="2178 6/22월 분 면접으로 당일에 해결못함" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="11724 시간초과로 구조 변경중">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/재도전/11724 연결요소.py" beforeDir="false" afterPath="$PROJECT_DIR$/재도전/11724 연결요소.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,13 +166,6 @@
       <workItem from="1651851529621" duration="2273000" />
       <workItem from="1652099148190" duration="6365000" />
       <workItem from="1654093737638" duration="9000" />
-    </task>
-    <task id="LOCAL-00012" summary="15552 빠른A+B 반복문">
-      <created>1649945366357</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1649945366357</updated>
     </task>
     <task id="LOCAL-00013" summary="2741 2742">
       <created>1649945616481</created>
@@ -507,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655990410197</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="11724 시간초과로 구조 변경중">
+      <created>1656079531510</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1656079531511</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +529,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="10872" />
     <MESSAGE value="10870" />
     <MESSAGE value="17478" />
     <MESSAGE value="17478 수정" />
@@ -551,7 +553,8 @@
     <MESSAGE value="1018" />
     <MESSAGE value="1991" />
     <MESSAGE value="2178 6/22월 분 면접으로 당일에 해결못함" />
-    <option name="LAST_COMMIT_MESSAGE" value="2178 6/22월 분 면접으로 당일에 해결못함" />
+    <MESSAGE value="11724 시간초과로 구조 변경중" />
+    <option name="LAST_COMMIT_MESSAGE" value="11724 시간초과로 구조 변경중" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
