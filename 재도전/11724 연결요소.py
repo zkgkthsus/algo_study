@@ -1,6 +1,9 @@
 # 재귀 제한 때문에 아래 두줄은 필수
 import sys
-sys.setrecursionlimit(10000)
+sys.setrecursionlimit(100000)
+# input을 아래와 같이 바꾸지 않으면 시간초과남
+# ㅎㅎ 입력속도때문에 계속 해결이 안되니 뭐라해야하나 이걸
+input = sys.stdin.readline
 
 def dfs(v):
     visit[v] = True
