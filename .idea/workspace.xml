@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="2667 단지연결 출력주의">
-      <change afterPath="$PROJECT_DIR$/스터디/2693 N번째 큰수.py" afterDir="false" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="3085 진행중">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/스터디/3085 사탕게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/스터디/3085 사탕게임.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,13 +166,6 @@
       <workItem from="1651851529621" duration="2273000" />
       <workItem from="1652099148190" duration="6365000" />
       <workItem from="1654093737638" duration="9000" />
-    </task>
-    <task id="LOCAL-00016" summary="10871 10952">
-      <created>1649946636270</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1649946636270</updated>
     </task>
     <task id="LOCAL-00017" summary="1110 더하기 사이클">
       <created>1649948302726</created>
@@ -510,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656253305516</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="3085 진행중">
+      <created>1656340894509</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1656340894509</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +529,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2247 진행중" />
     <MESSAGE value="2247 해결" />
     <MESSAGE value="11729 진행중" />
     <MESSAGE value="11729 여전히 헤깔림" />
@@ -554,7 +553,8 @@
     <MESSAGE value="11724 시간초과로 구조 변경중 2" />
     <MESSAGE value="11724 시간초과(입력형식 변경)해결" />
     <MESSAGE value="2667 단지연결 출력주의" />
-    <option name="LAST_COMMIT_MESSAGE" value="2667 단지연결 출력주의" />
+    <MESSAGE value="3085 진행중" />
+    <option name="LAST_COMMIT_MESSAGE" value="3085 진행중" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
