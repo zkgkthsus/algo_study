@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="3085 진행중">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/스터디/3085 사탕게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/스터디/3085 사탕게임.py" afterDir="false" />
-    </list>
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="3085 재도전 필요" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +42,7 @@
       <recent name="C:\Users\USER\Desktop\알고리즘(개인)\algo_study\입출력과 사칙연산" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\알고리즘(개인)\algo_study\재도전" />
       <recent name="C:\Users\USER\Desktop\알고리즘(개인)\algo_study\스터디" />
     </key>
   </component>
@@ -166,13 +164,6 @@
       <workItem from="1651851529621" duration="2273000" />
       <workItem from="1652099148190" duration="6365000" />
       <workItem from="1654093737638" duration="9000" />
-    </task>
-    <task id="LOCAL-00017" summary="1110 더하기 사이클">
-      <created>1649948302726</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1649948302726</updated>
     </task>
     <task id="LOCAL-00018" summary="2562 2577 10818">
       <created>1650036860404</created>
@@ -510,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656340894509</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="3085 재도전 필요">
+      <created>1656409837402</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1656409837402</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +527,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2247 해결" />
     <MESSAGE value="11729 진행중" />
     <MESSAGE value="11729 여전히 헤깔림" />
     <MESSAGE value="2798 브루트포스 시작" />
@@ -554,7 +551,8 @@
     <MESSAGE value="11724 시간초과(입력형식 변경)해결" />
     <MESSAGE value="2667 단지연결 출력주의" />
     <MESSAGE value="3085 진행중" />
-    <option name="LAST_COMMIT_MESSAGE" value="3085 진행중" />
+    <MESSAGE value="3085 재도전 필요" />
+    <option name="LAST_COMMIT_MESSAGE" value="3085 재도전 필요" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
