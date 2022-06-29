@@ -1,4 +1,4 @@
-# 시간초과
+# 시간초과ㅇㄻㄴㅇ
 
 N, K = map(int, input().split())
 arr = [list(input()) for _ in range(N)]
