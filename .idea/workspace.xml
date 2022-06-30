@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="3085 재도전 필요" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="1062 재도전 필요" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,20 +164,6 @@
       <workItem from="1651851529621" duration="2273000" />
       <workItem from="1652099148190" duration="6365000" />
       <workItem from="1654093737638" duration="9000" />
-    </task>
-    <task id="LOCAL-00018" summary="2562 2577 10818">
-      <created>1650036860404</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1650036860404</updated>
-    </task>
-    <task id="LOCAL-00019" summary="1546 3052">
-      <created>1650037641675</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1650037641675</updated>
     </task>
     <task id="LOCAL-00020" summary="4344 8958">
       <created>1650039230992</created>
@@ -508,7 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656409837402</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="3085 재도전 필요">
+      <created>1656503603282</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1656503603282</updated>
+    </task>
+    <task id="LOCAL-00068" summary="1062 재도전 필요">
+      <created>1656503641020</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1656503641020</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +527,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="11729 진행중" />
     <MESSAGE value="11729 여전히 헤깔림" />
     <MESSAGE value="2798 브루트포스 시작" />
     <MESSAGE value="2231" />
@@ -552,7 +551,8 @@
     <MESSAGE value="2667 단지연결 출력주의" />
     <MESSAGE value="3085 진행중" />
     <MESSAGE value="3085 재도전 필요" />
-    <option name="LAST_COMMIT_MESSAGE" value="3085 재도전 필요" />
+    <MESSAGE value="1062 재도전 필요" />
+    <option name="LAST_COMMIT_MESSAGE" value="1062 재도전 필요" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
