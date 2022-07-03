@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="오래걸림" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="해석중">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/스터디/3190.py" beforeDir="false" afterPath="$PROJECT_DIR$/스터디/3190.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,13 +167,6 @@
       <workItem from="1651851529621" duration="2273000" />
       <workItem from="1652099148190" duration="6365000" />
       <workItem from="1654093737638" duration="9000" />
-    </task>
-    <task id="LOCAL-00021" summary="1065 4673 15596">
-      <created>1650044782401</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1650044782401</updated>
     </task>
     <task id="LOCAL-00022" summary="10809 11654 11720">
       <created>1650046296851</created>
@@ -508,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656592737665</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="해석중">
+      <created>1656769623428</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1656769623429</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +530,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2798 브루트포스 시작" />
     <MESSAGE value="2231" />
     <MESSAGE value="1182" />
     <MESSAGE value="10815" />
@@ -552,7 +554,8 @@
     <MESSAGE value="3085 재도전 필요" />
     <MESSAGE value="1062 재도전 필요" />
     <MESSAGE value="오래걸림" />
-    <option name="LAST_COMMIT_MESSAGE" value="오래걸림" />
+    <MESSAGE value="해석중" />
+    <option name="LAST_COMMIT_MESSAGE" value="해석중" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
