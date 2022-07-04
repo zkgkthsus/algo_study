@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="3190 뱀 게임" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="10844 재도전" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,13 +164,6 @@
       <workItem from="1651851529621" duration="2273000" />
       <workItem from="1652099148190" duration="6365000" />
       <workItem from="1654093737638" duration="9000" />
-    </task>
-    <task id="LOCAL-00023" summary="10809 11654 11720">
-      <created>1650048030501</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1650048030501</updated>
     </task>
     <task id="LOCAL-00024" summary="1152 1316 2908 2941 5622">
       <created>1650293224787</created>
@@ -508,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656859611848</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="10844 재도전">
+      <created>1656933524374</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1656933524374</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +527,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="1182" />
     <MESSAGE value="10815" />
     <MESSAGE value="16198" />
     <MESSAGE value="16198 진행중" />
@@ -552,7 +551,8 @@
     <MESSAGE value="오래걸림" />
     <MESSAGE value="해석중" />
     <MESSAGE value="3190 뱀 게임" />
-    <option name="LAST_COMMIT_MESSAGE" value="3190 뱀 게임" />
+    <MESSAGE value="10844 재도전" />
+    <option name="LAST_COMMIT_MESSAGE" value="10844 재도전" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
