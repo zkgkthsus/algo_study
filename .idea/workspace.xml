@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="11497 통나무건너기">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="2242 줄세우기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,13 +164,6 @@
       <workItem from="1651851529621" duration="2273000" />
       <workItem from="1652099148190" duration="6365000" />
       <workItem from="1654093737638" duration="9000" />
-    </task>
-    <task id="LOCAL-00028" summary="1929 2581 4948 11653 다시 풀어봐야할 것들">
-      <created>1650471939374</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1650471939374</updated>
     </task>
     <task id="LOCAL-00029" summary="1260 dfs bfs의 기초">
       <created>1651604653552</created>
@@ -510,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657087323091</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="2242 줄세우기">
+      <created>1657195059445</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1657195059445</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +527,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2748 피보나치" />
     <MESSAGE value="11051 재도전 필요" />
     <MESSAGE value="15992 재도전 필요" />
     <MESSAGE value="7568 시작" />
@@ -554,7 +551,8 @@
     <MESSAGE value="1890 점프 재도전" />
     <MESSAGE value="16234 인구 이동" />
     <MESSAGE value="11497 통나무건너기" />
-    <option name="LAST_COMMIT_MESSAGE" value="11497 통나무건너기" />
+    <MESSAGE value="2242 줄세우기" />
+    <option name="LAST_COMMIT_MESSAGE" value="2242 줄세우기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
