@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="2623 음악프로그램">
-      <change afterPath="$PROJECT_DIR$/재도전/프로그래머스_카카오_구명보트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="카카오 주석" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,13 +164,6 @@
       <workItem from="1651851529621" duration="2273000" />
       <workItem from="1652099148190" duration="6365000" />
       <workItem from="1654093737638" duration="9000" />
-    </task>
-    <task id="LOCAL-00031" summary="2667 dfs성공 bfs 실패">
-      <created>1651763116843</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1651763116843</updated>
     </task>
     <task id="LOCAL-00032" summary="1012 유기농 배추">
       <created>1651853818679</created>
@@ -511,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657270668422</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="카카오 주석">
+      <created>1657454118176</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1657454118176</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +527,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="15992 재도전 필요" />
     <MESSAGE value="7568 시작" />
     <MESSAGE value="7568" />
     <MESSAGE value="1078 재도전 필요" />
@@ -555,7 +551,8 @@
     <MESSAGE value="11497 통나무건너기" />
     <MESSAGE value="2242 줄세우기" />
     <MESSAGE value="2623 음악프로그램" />
-    <option name="LAST_COMMIT_MESSAGE" value="2623 음악프로그램" />
+    <MESSAGE value="카카오 주석" />
+    <option name="LAST_COMMIT_MESSAGE" value="카카오 주석" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
