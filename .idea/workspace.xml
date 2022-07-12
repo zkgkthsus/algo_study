@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="1764 듣보잡">
-      <change afterPath="$PROJECT_DIR$/스터디/1780 종이의 갯수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="1780 종이의 갯수" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,13 +164,6 @@
       <workItem from="1651851529621" duration="2273000" />
       <workItem from="1652099148190" duration="6365000" />
       <workItem from="1654093737638" duration="9000" />
-    </task>
-    <task id="LOCAL-00034" summary="1085 3009 4153">
-      <created>1652105571374</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1652105571374</updated>
     </task>
     <task id="LOCAL-00035" summary="10872">
       <created>1654094351212</created>
@@ -511,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657514971298</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="1780 종이의 갯수">
+      <created>1657631343139</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1657631343140</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +527,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="1078 재도전 필요" />
     <MESSAGE value="1078 해석 첨부 재도전 필요" />
     <MESSAGE value="1018" />
     <MESSAGE value="1991" />
@@ -555,7 +551,8 @@
     <MESSAGE value="카카오 주석" />
     <MESSAGE value="9252 LCS DP" />
     <MESSAGE value="1764 듣보잡" />
-    <option name="LAST_COMMIT_MESSAGE" value="1764 듣보잡" />
+    <MESSAGE value="1780 종이의 갯수" />
+    <option name="LAST_COMMIT_MESSAGE" value="1780 종이의 갯수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
