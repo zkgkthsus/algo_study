@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="14888 연산자 끼워넣기">
-      <change afterPath="$PROJECT_DIR$/정렬/1181 단어정렬.py" afterDir="false" />
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="1181 단어정렬">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,13 +166,6 @@
       <workItem from="1651851529621" duration="2273000" />
       <workItem from="1652099148190" duration="6365000" />
       <workItem from="1654093737638" duration="9000" />
-    </task>
-    <task id="LOCAL-00039" summary="2247 진행중">
-      <created>1654440817054</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1654440817054</updated>
     </task>
     <task id="LOCAL-00040" summary="2247 해결">
       <created>1654444786473</created>
@@ -511,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657883340284</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="1181 단어정렬">
+      <created>1658062943935</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1658062943935</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +529,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="1991" />
     <MESSAGE value="2178 6/22월 분 면접으로 당일에 해결못함" />
     <MESSAGE value="11724 시간초과로 구조 변경중" />
     <MESSAGE value="11724 시간초과로 구조 변경중 2" />
@@ -555,7 +553,8 @@
     <MESSAGE value="1780 종이의 갯수" />
     <MESSAGE value="2263 트리의 순회" />
     <MESSAGE value="14888 연산자 끼워넣기" />
-    <option name="LAST_COMMIT_MESSAGE" value="14888 연산자 끼워넣기" />
+    <MESSAGE value="1181 단어정렬" />
+    <option name="LAST_COMMIT_MESSAGE" value="1181 단어정렬" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
