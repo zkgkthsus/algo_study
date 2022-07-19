@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="1181 단어정렬">
+    <list default="true" id="b08bb762-a683-481b-8b04-d455ed85e6ef" name="Changes" comment="10814 나이순 정렬">
+      <change afterPath="$PROJECT_DIR$/그리드/11047 동전 0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,13 +167,6 @@
       <workItem from="1651851529621" duration="2273000" />
       <workItem from="1652099148190" duration="6365000" />
       <workItem from="1654093737638" duration="9000" />
-    </task>
-    <task id="LOCAL-00040" summary="2247 해결">
-      <created>1654444786473</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1654444786473</updated>
     </task>
     <task id="LOCAL-00041" summary="11729 진행중">
       <created>1654612772908</created>
@@ -510,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658062943935</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="1181 단어정렬">
+      <created>1658154313396</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1658154313396</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
